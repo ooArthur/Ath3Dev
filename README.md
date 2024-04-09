@@ -1,10 +1,13 @@
-# 🏔️ Olá, eu sou o Arthur Almeida! 🙊😅
+# 🏔️ Olá, Eu sou o Arthur Almeida! 🙊😅
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-almeida-79050b266/)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=FE428E&center=false&vLeft=true&random=false&width=1000&lines=Hello%2C+my+name+is+Arthur;I'm+17+years+old;I'm+studying+Systems+Development;Welcome%3A)](https://git.io/typing-svg)
 
 [![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ath3Dev&show_icons=true&theme=radical)]
 
 <div style="display: inline_block">
-    <h2>🚀 Tecnologias usadas: </h2>
+    <h2>🚀 Estudando neste momento | Currently Studying: </h2>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -25,10 +28,12 @@
 </div> <br />
 
 Em constante busca por conhecimento, explorando novos horizontes disposto a enfrentar desafios com determinação.
+<br />
+In constant pursuit of knowledge, exploring new horizons and ready to face challenges with determination.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3Dev&layout=compact&theme=radical)]
 
-## 🌠 Projetos de Prática: 
+## 🌠 Práticas em Projetos | Practice Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=Rifas-API&theme=dark)](https://github.com/Ath3Dev/Rifas-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=atividadeReact-API-JSON&theme=dark)](https://github.com/Ath3Dev/atividadeReact-API-JSON)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=projetoPizzaria_Java&theme=dark)](https://github.com/Ath3Dev/projetoPizzaria_Java)
