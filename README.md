@@ -2,9 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-almeida-79050b266/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=FE428E&center=false&vLeft=true&random=false&width=1000&lines=Hello%2C+my+name+is+Arthur;I'm+17+years+old;I'm+studying+Systems+Development;Welcome%3A)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=FE428E&center=false&vLeft=true&random=false&width=1000&lines=Hello%2C+my+name+is+Arthur;I'm+17+years+old;I'm+studying+Systems+Development;Welcome%3A)](https://git.io/typing-svg)
 
-[![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ath3Dev&show_icons=true&theme=radical)]
+![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ath3Dev&show_icons=true&theme=radical)
 
 <div style="display: inline_block">
     <h2>🚀 Estudando neste momento | Currently Studying: </h2>
@@ -31,7 +31,7 @@ Em constante busca por conhecimento, explorando novos horizontes disposto a enfr
 <br />
 In constant pursuit of knowledge, exploring new horizons and ready to face challenges with determination.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3Dev&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3Dev&layout=compact&theme=radical)
 
 ## 🌠 Práticas em Projetos | Practice Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=Rifas-API&theme=dark)](https://github.com/Ath3Dev/Rifas-API)
