@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <a href="[https://github.com/Ath3Dev/projetoPizzaria_Java](https://github.com/Ath3Dev/Rifas-ExpressHandlebars)">
+        <a href="https://github.com/Ath3Dev/Rifas-ExpressHandlebars">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=Rifas-ExpressHandlebars&theme=dark" alt="Rifas-ExpressHandlebars"/>
         </a>
       </td>
