@@ -11,12 +11,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-almeida-79050b266/)
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ath3Dev&theme=radical"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ooArthur&theme=radical"/>
 </div>
 <hr>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ath3Dev&show_icons=true&theme=radical"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ath3Dev&layout=compact&theme=radical"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ooArthur&show_icons=true&theme=radical"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooArthur&layout=compact&theme=radical"/>
 </div>
 
 <hr />
@@ -27,37 +27,37 @@
   <table>
     <tr>
       <td style="padding: 10px;">
-        <a href="https://github.com/Ath3Dev/Rifas-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=Rifas-API&theme=dark" alt="Rifas-API"/>
+        <a href="https://github.com/ooArthur/Rifas-API">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooArthur&repo=Rifas-API&theme=dark" alt="Rifas-API"/>
         </a>
       </td>
       <td style="padding: 10px;">
-        <a href="https://github.com/Ath3Dev/atividadeReact-API-JSON">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=atividadeReact-API-JSON&theme=dark" alt="atividadeReact-API-JSON"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
-        <a href="https://github.com/Ath3Dev/projetoPizzaria_Java">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=projetoPizzaria_Java&theme=dark" alt="projetoPizzaria_Java"/>
-        </a>
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://github.com/Ath3Dev/projetoLumierre_JavaWeb">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=projetoLumierre_JavaWeb&theme=dark" alt="projetoLumierre_JavaWeb"/>
+        <a href="https://github.com/ooArthur/atividadeReact-API-JSON">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooArthur&repo=atividadeReact-API-JSON&theme=dark" alt="atividadeReact-API-JSON"/>
         </a>
       </td>
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <a href="https://github.com/Ath3Dev/Rifas-ExpressHandlebars">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=Rifas-ExpressHandlebars&theme=dark" alt="Rifas-ExpressHandlebars"/>
+        <a href="https://github.com/ooArthur/projetoPizzaria_Java">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooArthur&repo=projetoPizzaria_Java&theme=dark" alt="projetoPizzaria_Java"/>
         </a>
       </td>
       <td style="padding: 10px;">
-        <a href="https://github.com/Ath3Dev/webscraping-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ath3Dev&repo=webscraping-api&theme=dark" alt="webscraping-api"/>
+        <a href="https://github.com/ooArthur/projetoLumierre_JavaWeb">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooArthur&repo=projetoLumierre_JavaWeb&theme=dark" alt="projetoLumierre_JavaWeb"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://github.com/ooArthur/Rifas-ExpressHandlebars">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooArthur&repo=Rifas-ExpressHandlebars&theme=dark" alt="Rifas-ExpressHandlebars"/>
+        </a>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://github.com/ooArthur/webscraping-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooArthur&repo=webscraping-api&theme=dark" alt="webscraping-api"/>
         </a>
       </td>
     </tr>
